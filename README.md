@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am currently a senior at University of Houston. I have experience in working with data and field like backend web development, API development, Data Science and Microsoft Azure. I am a proactive student with good skills in communication, collaboration and problem solving. Knowledgeable in coding with strong understanding of data and APIs. I am committed in quickly building skills, self-teaching and acquiring new knowledge. Looking for a full time role
-
+I am currently a senior at University of Houston. I have experience in working with data and field like backend web development, API development, Data Science and Microsoft Azure.
 ### Skills
 
 <p align="left">
